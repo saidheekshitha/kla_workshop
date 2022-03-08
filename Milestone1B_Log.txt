@@ -1,0 +1,38 @@
+2022-03-08 15:00:48.764447;M1B_Workflow Entry
+2022-03-08 15:00:48.765447;M1B_Workflow.TaskA Entry
+2022-03-08 15:00:48.765447;M1B_Workflow.TaskA Executing TimeFunction (1)
+2022-03-08 15:00:49.771868;M1B_Workflow.TaskA Exit
+2022-03-08 15:00:49.772867;M1B_Workflow.FlowA Entry
+2022-03-08 15:00:49.773866;M1B_Workflow.FlowA.TaskB Entry
+2022-03-08 15:00:49.773866;M1B_Workflow.FlowA.TaskB Executing TimeFunction (14)
+2022-03-08 15:01:03.789962;M1B_Workflow.FlowA.TaskB Exit
+2022-03-08 15:01:03.790962;M1B_Workflow.FlowA.TaskB.TaskC Entry
+2022-03-08 15:01:03.790962;M1B_Workflow.FlowA.TaskB.TaskC Executing TimeFunction (5)
+2022-03-08 15:01:08.795511;M1B_Workflow.FlowA.TaskB.TaskC Exit
+2022-03-08 15:01:08.796514;M1B_Workflow.FlowA.TaskB.TaskC.TaskD Entry
+2022-03-08 15:01:08.796514;M1B_Workflow.FlowA.TaskB.TaskC.TaskD Executing TimeFunction (5)
+2022-03-08 15:01:13.810036;M1B_Workflow.FlowA.TaskB.TaskC.TaskD Exit
+2022-03-08 15:01:13.811042;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB Entry
+2022-03-08 15:01:13.811042;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE Entry
+2022-03-08 15:01:13.811042;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE Executing TimeFunction (5)
+2022-03-08 15:01:18.817852;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE Exit
+2022-03-08 15:01:18.818854;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF Entry
+2022-03-08 15:01:18.818854;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF Executing TimeFunction (1)
+2022-03-08 15:01:19.833964;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF Exit
+2022-03-08 15:01:19.833964;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB Exit
+2022-03-08 15:01:19.833964;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC Entry
+2022-03-08 15:01:19.834962;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG Entry
+2022-03-08 15:01:19.834962;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG Executing TimeFunction (2)
+2022-03-08 15:01:21.846858;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG Exit
+2022-03-08 15:01:21.846858;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG.TaskH Entry
+2022-03-08 15:01:21.846858;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG.TaskH Executing TimeFunction (2)
+2022-03-08 15:01:23.857998;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG.TaskH Exit
+2022-03-08 15:01:23.857998;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC Exit
+2022-03-08 15:01:23.859997;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG.TaskH.TaskI Entry
+2022-03-08 15:01:23.859997;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG.TaskH.TaskI Executing TimeFunction (5)
+2022-03-08 15:01:28.871774;M1B_Workflow.FlowA.TaskB.TaskC.TaskD.FlowB.TaskE.TaskF.FlowC.TaskG.TaskH.TaskI Exit
+2022-03-08 15:01:28.871774;M1B_Workflow.FlowA Exit
+2022-03-08 15:01:28.871774;M1B_Workflow.TaskZ Entry
+2022-03-08 15:01:28.871774;M1B_Workflow.TaskZ Executing TimeFunction (5)
+2022-03-08 15:01:33.884823;M1B_Workflow.TaskZ Exit
+2022-03-08 15:01:33.884823;M1B_Workflow Exit
